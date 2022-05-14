@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой первый проект на Хекслете",
+  "main": "myaw.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/psinapunk/hexlet-js.git"
+  },
+  "author": "tanya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psinapunk/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/psinapunk/hexlet-js#readme"
+}
